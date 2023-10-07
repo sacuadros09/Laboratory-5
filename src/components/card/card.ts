@@ -54,7 +54,7 @@ export default class Card extends HTMLElement {
 			this.shadowRoot.innerHTML = `
 		<section>
 		<button><img src="${this.img}"></button>
-		</section>xx	
+		</section>
         `;
 	}
 }
